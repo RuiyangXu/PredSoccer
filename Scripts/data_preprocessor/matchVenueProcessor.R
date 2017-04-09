@@ -1,0 +1,18 @@
+venueEmpty <- read.csv("datasets/Scraped data/venueForMatchEmpty.csv", header = TRUE)
+venueNonEmpty <- read.csv("datasets/Scraped data/venueForMatchNonEmpty.csv", header = TRUE)
+venueEmpty$teamA<- gsub('USSR', 'Russia', venueEmpty$teamA)
+venueEmpty$teamA<- gsub('Czechoslovakia', 'Czech Republic', venueEmpty$teamA)
+venueEmpty$teamA<- gsub('West Germany', 'Germany', venueEmpty$teamA)
+venueEmpty$teamB<- gsub('USSR', 'Russia', venueEmpty$teamB)
+venueEmpty$teamB<- gsub('Czechoslovakia', 'Czech Republic', venueEmpty$teamB)
+venueEmpty$teamB<- gsub('West Germany', 'Germany', venueEmpty$teamB)
+
+venueNonEmpty$teamA<- gsub('USSR', 'Russia', venueNonEmpty$teamA)
+venueNonEmpty$teamA<- gsub('Czechoslovakia', 'Czech Republic', venueNonEmpty$teamA)
+venueNonEmpty$teamA<- gsub('West Germany', 'Germany', venueNonEmpty$teamA)
+venueNonEmpty$teamB<- gsub('USSR', 'Russia', venueNonEmpty$teamB)
+venueNonEmpty$teamB<- gsub('Czechoslovakia', 'Czech Republic', venueNonEmpty$teamB)
+venueNonEmpty$teamB<- gsub('West Germany', 'Germany', venueNonEmpty$teamB)
+
+write.csv(venueEmpty, "datasets/processedvenueForMatchEmpty.csv", row.names = FALSE)
+write.csv(venueNonEmpty, "datasets/processedvenueForMatchNonEmpty.csv", row.names = FALSE)

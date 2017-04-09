@@ -1,0 +1,738 @@
+"teamA","teamB","matchDate","venue"
+"Algeria","Armenia","31 May 2014",NA
+"Algeria","Bosnia and Herzegovina","14 November 2012",NA
+"Algeria","Ivory Coast","30 January 2013",NA
+"Algeria","Morocco","27 March 2011",NA
+"Morocco","Algeria","04 June 2011",NA
+"Oman","Algeria","29 August 1998",NA
+"Oman","Algeria","31 August 1998",NA
+"Oman","Algeria","30 March 2015",NA
+"South Africa","Algeria","12 January 2013",NA
+"Algeria","Tunisia","11 December 1987",NA
+"Algeria","Tunisia","12 November 2011",NA
+"Algeria","United Arab Emirates","05 June 2010",NA
+"Argentina","Bolivia","06 June 2015",NA
+"Argentina","Mexico","08 September 2015",NA
+"Bulgaria","Armenia","11 September 2012",NA
+"Armenia","Canada","29 February 2012",NA
+"Denmark","Armenia","11 June 2013",NA
+"El Salvador","Armenia","01 June 2016",NA
+"Armenia","Greece","06 September 2003",NA
+"Guatemala","Armenia","28 May 2016",NA
+"Armenia","Iran","11 August 2010",NA
+"Lithuania","Armenia","10 August 2011",NA
+"Armenia","Lithuania","14 November 2012",NA
+"United Arab Emirates","Armenia","27 May 2014",NA
+"Armenia","Uzbekistan","25 May 2010",NA
+"China PR","Australia","22 January 2015",NA
+"Germany","Australia","25 March 2015",NA
+"Australia","United Arab Emirates","27 January 2015",NA
+"Serbia","Austria","06 June 2009",NA
+"China PR","Bahrain","11 August 2010",NA
+"Bahrain","Colombia","26 March 2015",NA
+"Bahrain","Denmark","30 January 2008",NA
+"Hong Kong","Bahrain","21 January 2009",NA
+"Bahrain","Hong Kong","06 January 2010",NA
+"Bahrain","Iran","21 March 2008",NA
+"Bahrain","Iran","31 August 2009",NA
+"Iran","Bahrain","24 September 2010",NA
+"Iran","Bahrain","11 October 2011",NA
+"Bahrain","Iran","11 November 2011",NA
+"Bahrain","Iraq","21 January 2007",NA
+"Bahrain","Iraq","04 January 2009",NA
+"Bahrain","Iraq","26 November 2010",NA
+"Bahrain","Iraq","13 December 2011",NA
+"Bahrain","Iraq","03 December 2012",NA
+"Bahrain","Iraq","15 January 2013",NA
+"Bahrain","Japan","06 September 2008",NA
+"Bahrain","Korea DPR","04 January 2011",NA
+"Bahrain","Korea Republic","04 February 2009",NA
+"Korea Republic","Bahrain","10 January 2011",NA
+"Morocco","Bahrain","23 June 2012",NA
+"Bahrain","Oman","16 April 2001",NA
+"Oman","Bahrain","10 September 2003",NA
+"Oman","Bahrain","08 November 2006",NA
+"Oman","Bahrain","27 January 2007",NA
+"Oman","Bahrain","10 January 2009",NA
+"Bahrain","Oman","26 September 2010",NA
+"Oman","Bahrain","23 November 2010",NA
+"Oman","Bahrain","10 August 2011",NA
+"Oman","Bahrain","20 December 2012",NA
+"Bahrain","Oman","05 January 2013",NA
+"Oman","Bahrain","25 December 2013",NA
+"Bahrain","Palestine","02 September 2004",NA
+"Bahrain","Palestine","16 February 2006",NA
+"Bahrain","Palestine","06 December 2011",NA
+"Bahrain","Palestine","20 December 2011",NA
+"Palestine","Bahrain","29 November 2012",NA
+"Bahrain","Panama","27 October 2005",NA
+"Saudi Arabia","Bahrain","09 August 2006",NA
+"Saudi Arabia","Bahrain","18 January 2007",NA
+"Saudi Arabia","Bahrain","12 November 2008",NA
+"Bahrain","Saudi Arabia","23 December 2008",NA
+"Bahrain","Saudi Arabia","31 December 2010",NA
+"Bahrain","Saudi Arabia","15 December 2012",NA
+"Bahrain","Saudi Arabia","30 December 2014",NA
+"Bahrain","Sweden","18 January 2012",NA
+"United Arab Emirates","Bahrain","31 July 1992",NA
+"United Arab Emirates","Bahrain","31 May 2004",NA
+"United Arab Emirates","Bahrain","27 June 2007",NA
+"United Arab Emirates","Bahrain","29 August 2008",NA
+"United Arab Emirates","Bahrain","29 November 2010",NA
+"United Arab Emirates","Bahrain","16 October 2012",NA
+"Bahrain","United Arab Emirates","08 January 2013",NA
+"Bahrain","Uzbekistan","17 June 2009",NA
+"Bahrain","Uzbekistan","12 October 2010",NA
+"Bahrain","Uzbekistan","25 December 2010",NA
+"Colombia","Bolivia","10 July 2011",NA
+"Bolivia","Colombia","11 October 2011",NA
+"Bolivia","Costa Rica","07 July 2011",NA
+"Bolivia","Costa Rica","14 November 2012",NA
+"Bolivia","Cuba","29 February 2012",NA
+"Ecuador","Bolivia","07 September 2012",NA
+"Bolivia","Ecuador","05 September 2014",NA
+"Greece","Bolivia","06 June 2014",NA
+"Greece","Bolivia","07 June 2014",NA
+"Guatemala","Bolivia","28 March 2011",NA
+"Japan","Bolivia","19 June 2000",NA
+"Mexico","Bolivia","11 March 2009",NA
+"Panama","Bolivia","25 March 2011",NA
+"Bolivia","Panama","10 August 2011",NA
+"Bolivia","Paraguay","04 June 2011",NA
+"Paraguay","Bolivia","07 June 2011",NA
+"Peru","Bolivia","02 September 2011",NA
+"Bolivia","Peru","05 September 2011",NA
+"Bolivia","Peru","12 October 2012",NA
+"Bolivia","Uruguay","16 October 2012",NA
+"Bolivia","Venezuela","06 June 2009",NA
+"Bolivia","Venezuela","07 October 2010",NA
+"Bolivia","Venezuela","07 June 2013",NA
+"Venezuela","Bolivia","14 August 2013",NA
+"Brazil","Egypt","15 June 2009",NA
+"Brazil","Egypt","14 November 2011",NA
+"Mexico","Brazil","11 October 2011",NA
+"Brazil","Mexico","03 June 2012",NA
+"Panama","Brazil","30 May 2016",NA
+"Brazil","Portugal","19 November 2008",NA
+"Bulgaria","Canada","23 May 2014",NA
+"Bulgaria","Denmark","12 October 2012",NA
+"Denmark","Bulgaria","26 March 2013",NA
+"Denmark","Bulgaria","07 June 2016",NA
+"Bulgaria","Germany","21 August 2002",NA
+"Bulgaria","Greece","30 June 1929",NA
+"Mexico","Bulgaria","16 November 2005",NA
+"Bulgaria","Romania","15 September 1929",NA
+"Saudi Arabia","Bulgaria","12 October 2010",NA
+"Serbia","Bulgaria","19 November 2008",NA
+"Bulgaria","Serbia","17 November 2010",NA
+"Bulgaria","Yugoslavia","15 June 1930",NA
+"Colombia","Cameroon","16 October 2012",NA
+"Egypt","Cameroon","20 May 2012",NA
+"Cameroon","Ivory Coast","04 February 2006",NA
+"Japan","Cameroon","28 March 2001",NA
+"Morocco","Cameroon","15 November 2005",NA
+"Morocco","Cameroon","13 November 2011",NA
+"South Africa","Cameroon","19 November 2008",NA
+"Cameroon","South Africa","26 March 2016",NA
+"Tunisia","Cameroon","13 October 2013",NA
+"Zambia","Cameroon","01 June 1997",NA
+"Canada","China PR","02 April 1992",NA
+"Costa Rica","Canada","10 July 2009",NA
+"Canada","Costa Rica","28 May 2013",NA
+"Cuba","Canada","08 June 2012",NA
+"Canada","Cuba","12 October 2012",NA
+"Canada","Denmark","26 January 2013",NA
+"Canada","Ecuador","11 May 2010",NA
+"Canada","Ecuador","01 June 2011",NA
+"El Salvador","Canada","07 July 2009",NA
+"Estonia","Canada","26 March 2008",NA
+"Guatemala","Canada","30 June 2009",NA
+"Canada","Honduras","06 September 2008",NA
+"Canada","Honduras","18 July 2009",NA
+"Canada","Honduras","07 September 2010",NA
+"Canada","Honduras","12 June 2012",NA
+"Honduras","Canada","16 October 2012",NA
+"Canada","Jamaica","03 July 2009",NA
+"Jamaica","Canada","31 January 2010",NA
+"Japan","Canada","22 March 2013",NA
+"Morocco","Canada","11 October 2016",NA
+"Panama","Canada","04 June 2008",NA
+"Canada","Panama","14 June 2011",NA
+"Canada","Panama","07 September 2012",NA
+"Panama","Canada","11 September 2012",NA
+"Panama","Canada","14 July 2013",NA
+"Canada","Peru","04 September 2010",NA
+"Canada","Trinidad and Tobago","15 August 2012",NA
+"Canada","Uzbekistan","07 June 2016",NA
+"Venezuela","Canada","29 May 2010",NA
+"Colombia","Costa Rica","02 July 2011",NA
+"Ecuador","Colombia","10 June 2012",NA
+"Colombia","Ecuador","06 September 2013",NA
+"Colombia","El Salvador","07 August 2009",NA
+"Guatemala","Colombia","06 February 2013",NA
+"Colombia","Haiti","11 February 2009",NA
+"Honduras","Colombia","01 December 1996",NA
+"Colombia","Honduras","26 March 2008",NA
+"Honduras","Colombia","03 September 2011",NA
+"Jamaica","Colombia","06 September 2011",NA
+"Mexico","Colombia","30 September 2009",NA
+"Mexico","Colombia","07 September 2010",NA
+"Mexico","Colombia","29 February 2012",NA
+"Paraguay","Colombia","15 October 2013",NA
+"Colombia","Peru","17 November 2010",NA
+"Peru","Colombia","03 June 2012",NA
+"Colombia","Tunisia","05 March 2014",NA
+"Uruguay","Colombia","06 February 2008",NA
+"Colombia","Venezuela","30 April 2008",NA
+"Colombia","Venezuela","12 August 2009",NA
+"Venezuela","Colombia","03 September 2010",NA
+"Colombia","Venezuela","11 November 2011",NA
+"Venezuela","Colombia","26 March 2013",NA
+"Costa Rica","Cuba","05 June 2011",NA
+"Cuba","Costa Rica","11 December 2011",NA
+"Cuba","El Salvador","24 March 2011",NA
+"El Salvador","Cuba","12 June 2011",NA
+"Guatemala","Cuba","23 August 2014",NA
+"Haiti","Cuba","17 October 2006",NA
+"Haiti","Cuba","19 October 2006",NA
+"Haiti","Cuba","08 November 2006",NA
+"Cuba","Haiti","08 December 2008",NA
+"Haiti","Cuba","14 December 2012",NA
+"Cuba","Honduras","07 September 2012",NA
+"Honduras","Cuba","11 September 2012",NA
+"Jamaica","Cuba","22 February 2012",NA
+"Jamaica","Cuba","24 February 2012",NA
+"Jamaica","Cuba","12 December 2012",NA
+"Mexico","Cuba","27 November 1990",NA
+"Cuba","Mexico","09 June 2011",NA
+"Panama","Cuba","26 October 2010",NA
+"Cuba","Panama","29 March 2011",NA
+"Panama","Cuba","12 June 2012",NA
+"Cuba","Panama","16 October 2012",NA
+"Panama","Cuba","20 July 2013",NA
+"Cuba","Trinidad and Tobago","29 November 1990",NA
+"Trinidad and Tobago","Cuba","07 June 1996",NA
+"Trinidad and Tobago","Cuba","20 January 2007",NA
+"Trinidad and Tobago","Cuba","26 November 2010",NA
+"Trinidad and Tobago","Cuba","18 November 2012",NA
+"Cuba","Trinidad and Tobago","16 December 2012",NA
+"Venezuela","Cuba","25 November 1990",NA
+"El Salvador","Denmark","25 January 2007",NA
+"Denmark","Finland","15 November 2011",NA
+"France","Denmark","29 March 2015",NA
+"Mexico","Denmark","30 January 2013",NA
+"Costa Rica","Ecuador","10 August 2011",NA
+"Ecuador","Costa Rica","06 September 2011",NA
+"Ecuador","El Salvador","27 May 2009",NA
+"Ecuador","El Salvador","21 March 2013",NA
+"Ecuador","Germany","29 May 2013",NA
+"Ecuador","Greece","07 June 2011",NA
+"Ecuador","Haiti","26 March 2008",NA
+"Ecuador","Haiti","27 March 2008",NA
+"Ecuador","Honduras","25 January 2006",NA
+"Honduras","Ecuador","09 February 2011",NA
+"Ecuador","Honduras","29 February 2012",NA
+"Iran","Ecuador","17 December 2008",NA
+"Ecuador","Jamaica","12 August 2009",NA
+"Ecuador","Jamaica","02 September 2011",NA
+"Ecuador","Mexico","12 November 2008",NA
+"Mexico","Ecuador","04 September 2010",NA
+"Mexico","Ecuador","28 May 2011",NA
+"Mexico","Ecuador","31 May 2014",NA
+"Oman","Ecuador","19 December 2008",NA
+"Ecuador","Paraguay","26 March 2013",NA
+"Peru","Ecuador","29 March 2011",NA
+"Peru","Ecuador","07 June 2013",NA
+"Ecuador","Spain","14 August 2013",NA
+"Venezuela","Ecuador","07 September 2010",NA
+"Ecuador","Venezuela","17 November 2010",NA
+"Venezuela","Ecuador","16 October 2012",NA
+"Ghana","Egypt","31 January 2010",NA
+"Ghana","Egypt","10 January 2013",NA
+"Egypt","Ghana","19 November 2013",NA
+"Egypt","Iraq","17 April 2012",NA
+"Iraq","Egypt","27 June 2012",NA
+"Egypt","Ivory Coast","28 January 2006",NA
+"Egypt","Ivory Coast","10 February 2006",NA
+"Ivory Coast","Egypt","14 January 2013",NA
+"Egypt","Morocco","24 January 2006",NA
+"Oman","Egypt","30 May 2009",NA
+"Oman","Egypt","15 August 2012",NA
+"Egypt","South Africa","14 January 2006",NA
+"South Africa","Egypt","26 March 2011",NA
+"Egypt","South Africa","05 June 2011",NA
+"South Africa","Egypt","06 September 2016",NA
+"Egypt","Tunisia","16 October 2012",NA
+"United Arab Emirates","Egypt","23 February 1988",NA
+"United Arab Emirates","Egypt","26 February 1988",NA
+"USA","Egypt","20 July 1999",NA
+"Zambia","Egypt","10 March 2003",NA
+"China PR","Estonia","18 December 2010",NA
+"El Salvador","Estonia","29 February 2012",NA
+"Finland","Estonia","08 June 2015",NA
+"France","Estonia","05 June 2012",NA
+"Estonia","Lithuania","31 May 2008",NA
+"Estonia","Lithuania","22 November 2008",NA
+"Lithuania","Estonia","20 June 2010",NA
+"Estonia","Lithuania","03 June 2012",NA
+"Oman","Estonia","08 November 2012",NA
+"Estonia","Trinidad and Tobago","07 June 2013",NA
+"Turkey","Estonia","05 September 2009",NA
+"Turkey","Estonia","10 August 2011",NA
+"United Arab Emirates","Estonia","14 November 2012",NA
+"Estonia","Uruguay","25 March 2011",NA
+"Uruguay","Estonia","23 June 2011",NA
+"Estonia","Uzbekistan","07 September 2010",NA
+"Israel","Finland","06 February 2013",NA
+"Oman","Finland","24 January 2014",NA
+"France","Costa Rica","09 November 2005",NA
+"France","Uruguay","15 August 2012",NA
+"Germany","Lithuania","29 March 2003",NA
+"Germany","Uruguay","29 May 2011",NA
+"China PR","Ghana","15 August 2012",NA
+"Ghana","Ivory Coast","16 October 2015",NA
+"Ivory Coast","Ghana","30 October 2015",NA
+"Korea Republic","Ghana","07 June 2011",NA
+"Mexico","Ghana","01 March 2006",NA
+"Mexico","Ghana","26 March 2008",NA
+"Saudi Arabia","Ghana","17 November 2010",NA
+"South Africa","Ghana","15 October 2008",NA
+"South Africa","Ghana","11 August 2010",NA
+"Ghana","Tunisia","19 November 2008",NA
+"Ghana","Tunisia","05 February 2012",NA
+"Ghana","Tunisia","13 January 2013",NA
+"Ghana","Zambia","12 August 2009",NA
+"Zambia","Ghana","08 February 2012",NA
+"Zambia","Ghana","27 May 2015",NA
+"Greece","Korea Republic","05 March 2014",NA
+"Greece","Lithuania","11 September 2012",NA
+"Lithuania","Greece","07 June 2013",NA
+"Portugal","Greece","31 May 2014",NA
+"Romania","Greece","19 November 2013",NA
+"Greece","Switzerland","06 February 2013",NA
+"Costa Rica","Guatemala","25 February 2005",NA
+"Guatemala","Costa Rica","25 January 2009",NA
+"Guatemala","Costa Rica","16 January 2011",NA
+"Costa Rica","Guatemala","25 May 2012",NA
+"Costa Rica","Guatemala","26 May 2012",NA
+"Guatemala","Costa Rica","01 June 2012",NA
+"Costa Rica","Guatemala","22 January 2013",NA
+"El Salvador","Guatemala","12 February 2007",NA
+"El Salvador","Guatemala","18 February 2007",NA
+"Guatemala","El Salvador","30 May 2008",NA
+"El Salvador","Guatemala","20 July 2008",NA
+"El Salvador","Guatemala","03 March 2010",NA
+"El Salvador","Guatemala","11 August 2012",NA
+"Guatemala","Haiti","03 July 2000",NA
+"Guatemala","Haiti","23 April 2008",NA
+"Guatemala","Haiti","17 January 2009",NA
+"Honduras","Guatemala","12 October 2010",NA
+"Honduras","Guatemala","18 January 2011",NA
+"Honduras","Guatemala","06 June 2011",NA
+"Jamaica","Guatemala","10 June 2011",NA
+"Jamaica","Guatemala","08 June 2012",NA
+"Guatemala","Jamaica","12 October 2012",NA
+"Japan","Guatemala","07 September 2010",NA
+"Japan","Guatemala","06 September 2013",NA
+"Mexico","Guatemala","28 June 2009",NA
+"Mexico","Guatemala","18 June 2011",NA
+"Panama","Guatemala","16 February 2007",NA
+"Guatemala","Panama","01 June 2008",NA
+"Guatemala","Panama","27 January 2009",NA
+"Panama","Guatemala","10 January 2013",NA
+"Panama","Guatemala","13 January 2013",NA
+"Guatemala","Panama","25 January 2013",NA
+"Paraguay","Guatemala","22 February 2012",NA
+"Guatemala","Paraguay","25 April 2012",NA
+"Paraguay","Guatemala","15 August 2012",NA
+"Paraguay","Guatemala","14 November 2012",NA
+"Venezuela","Guatemala","11 February 2009",NA
+"Guatemala","Venezuela","01 June 2011",NA
+"Guatemala","Venezuela","11 October 2014",NA
+"El Salvador","Haiti","09 February 2011",NA
+"El Salvador","Haiti","15 July 2013",NA
+"El Salvador","Haiti","09 October 2015",NA
+"Honduras","Haiti","20 August 2000",NA
+"Honduras","Haiti","07 June 2008",NA
+"Honduras","Haiti","04 July 2009",NA
+"Jamaica","Haiti","22 March 1925",NA
+"Jamaica","Haiti","26 March 1925",NA
+"Jamaica","Haiti","29 March 1925",NA
+"Haiti","Jamaica","13 March 1932",NA
+"Jamaica","Haiti","23 May 2009",NA
+"Korea Republic","Haiti","06 September 2013",NA
+"Mexico","Haiti","19 July 2009",NA
+"Oman","Haiti","20 March 2013",NA
+"Panama","Haiti","31 March 2009",NA
+"Haiti","Panama","19 June 2009",NA
+"Trinidad and Tobago","Haiti","06 November 2010",NA
+"Haiti","Trinidad and Tobago","07 December 2012",NA
+"Haiti","Venezuela","28 September 1999",NA
+"China PR","Honduras","12 February 2006",NA
+"China PR","Honduras","29 March 2011",NA
+"Costa Rica","Honduras","09 February 2007",NA
+"Costa Rica","Honduras","14 January 2011",NA
+"Honduras","Costa Rica","23 January 2011",NA
+"Costa Rica","Honduras","18 June 2011",NA
+"Costa Rica","Honduras","11 April 2012",NA
+"Costa Rica","Honduras","27 January 2013",NA
+"Honduras","Costa Rica","21 July 2013",NA
+"Honduras","Costa Rica","11 October 2013",NA
+"Honduras","El Salvador","26 January 2009",NA
+"El Salvador","Honduras","01 February 2009",NA
+"El Salvador","Honduras","04 September 2010",NA
+"Honduras","El Salvador","21 January 2011",NA
+"El Salvador","Honduras","29 May 2011",NA
+"El Salvador","Honduras","02 June 2012",NA
+"Honduras","El Salvador","18 January 2013",NA
+"Honduras","Jamaica","13 June 2011",NA
+"Honduras","Jamaica","11 October 2011",NA
+"Honduras","Jamaica","11 June 2013",NA
+"Jamaica","Honduras","15 October 2013",NA
+"Korea Republic","Honduras","25 March 2011",NA
+"Honduras","Mexico","22 March 2013",NA
+"New Zealand","Honduras","09 October 2010",NA
+"Honduras","New Zealand","26 May 2012",NA
+"Honduras","New Zealand","27 May 2012",NA
+"Honduras","Panama","25 February 2005",NA
+"Panama","Honduras","11 February 2007",NA
+"Honduras","Panama","30 January 2009",NA
+"Panama","Honduras","28 June 2009",NA
+"Panama","Honduras","17 November 2010",NA
+"Honduras","Panama","18 December 2010",NA
+"Honduras","Panama","08 June 2012",NA
+"Panama","Honduras","12 October 2012",NA
+"Honduras","Panama","22 January 2013",NA
+"Panama","Honduras","26 March 2013",NA
+"Honduras","Paraguay","06 February 2008",NA
+"Honduras","Paraguay","06 September 2011",NA
+"Honduras","Peru","18 November 2009",NA
+"Honduras","Peru","15 November 2012",NA
+"Honduras","Serbia","14 November 2011",NA
+"Honduras","Trinidad and Tobago","15 July 2013",NA
+"Turkey","Honduras","03 March 2010",NA
+"Venezuela","Honduras","30 May 2008",NA
+"Honduras","Venezuela","10 August 2011",NA
+"Honduras","Venezuela","05 March 2014",NA
+"Venezuela","Honduras","11 February 2015",NA
+"Venezuela","Honduras","04 September 2015",NA
+"Hungary","Lithuania","05 June 2015",NA
+"Hungary","Sweden","05 September 2009",NA
+"Switzerland","Iceland","06 September 2013",NA
+"China PR","Iran","27 April 1997",NA
+"Iran","China PR","19 December 2008",NA
+"Iran","China PR","09 January 2009",NA
+"China PR","Iran","01 June 2009",NA
+"China PR","Iran","03 September 2010",NA
+"Iran","Costa Rica","30 January 2008",NA
+"Iran","Ecuador","12 January 2000",NA
+"Iran","Iraq","26 July 2006",NA
+"Iran","Iraq","01 October 2010",NA
+"Iraq","Iran","11 January 2011",NA
+"Iran","Iraq","04 January 2015",NA
+"Korea DPR","Iran","18 September 2003",NA
+"Korea DPR","Iran","27 October 2003",NA
+"Iran","Korea DPR","02 January 2010",NA
+"Iran","Korea DPR","15 January 2011",NA
+"Korea Republic","Iran","07 September 2010",NA
+"Iran","Korea Republic","22 January 2011",NA
+"Iran","Korea Republic","16 October 2012",NA
+"Korea Republic","Iran","18 June 2013",NA
+"Oman","Iran","28 September 2010",NA
+"Palestine","Iran","30 July 2006",NA
+"Iran","Palestine","05 October 2011",NA
+"Tunisia","Iran","15 August 2012",NA
+"Iran","United Arab Emirates","28 July 2006",NA
+"United Arab Emirates","Iran","19 January 2011",NA
+"Uzbekistan","Iran","05 September 2009",NA
+"Uzbekistan","Iran","03 June 2012",NA
+"Iran","Uzbekistan","14 November 2012",NA
+"Uzbekistan","Iran","11 June 2015",NA
+"Iran","Zambia","25 May 2008",NA
+"China PR","Iraq","11 October 2011",NA
+"Iraq","China PR","11 November 2011",NA
+"China PR","Iraq","22 March 2013",NA
+"Japan","Iraq","11 September 2012",NA
+"Iraq","Japan","11 June 2013",NA
+"Iraq","Korea DPR","19 January 2011",NA
+"Korea DPR","Iraq","26 March 2011",NA
+"Korea Republic","Iraq","29 June 2007",NA
+"Korea Republic","Iraq","28 March 2009",NA
+"Morocco","Iraq","03 July 2012",NA
+"Oman","Iraq","07 October 2004",NA
+"Oman","Iraq","13 February 2006",NA
+"Oman","Iraq","07 January 2009",NA
+"Iraq","Oman","21 September 2010",NA
+"Oman","Iraq","29 November 2010",NA
+"Iraq","Oman","12 June 2012",NA
+"Oman","Iraq","18 December 2012",NA
+"Oman","Iraq","04 June 2013",NA
+"Iraq","Palestine","01 December 2005",NA
+"Palestine","Iraq","28 July 2006",NA
+"Iraq","Palestine","10 July 2009",NA
+"Iraq","Palestine","13 July 2009",NA
+"Palestine","Iraq","29 September 2010",NA
+"Saudi Arabia","Iraq","24 January 2007",NA
+"Saudi Arabia","Iraq","22 March 2009",NA
+"Saudi Arabia","Iraq","28 December 2010",NA
+"Saudi Arabia","Iraq","05 July 2012",NA
+"Saudi Arabia","Iraq","06 January 2013",NA
+"Iraq","Saudi Arabia","15 October 2013",NA
+"Saudi Arabia","Iraq","15 November 2013",NA
+"South Africa","Iraq","14 June 2009",NA
+"Iraq","Tunisia","30 December 2012",NA
+"Iraq","United Arab Emirates","30 July 2006",NA
+"United Arab Emirates","Iraq","31 January 2008",NA
+"United Arab Emirates","Iraq","27 December 2008",NA
+"United Arab Emirates","Iraq","18 November 2009",NA
+"Iraq","United Arab Emirates","23 November 2010",NA
+"United Arab Emirates","Iraq","15 January 2011",NA
+"United Arab Emirates","Iraq","18 January 2013",NA
+"Iraq","United Arab Emirates","30 January 2015",NA
+"Iraq","Uzbekistan","02 July 2007",NA
+"Uzbekistan","Iraq","25 December 2014",NA
+"Iraq","Uzbekistan","28 December 2014",NA
+"Uzbekistan","Iraq","28 December 2014",NA
+"Israel","Ivory Coast","19 November 2008",NA
+"Ivory Coast","Israel","10 August 2011",NA
+"Israel","Portugal","22 March 2013",NA
+"Portugal","Israel","11 October 2013",NA
+"Israel","Serbia","09 February 2011",NA
+"Italy","Portugal","16 June 2015",NA
+"China PR","Jamaica","10 August 2011",NA
+"Jamaica","Costa Rica","06 February 2008",NA
+"Jamaica","Costa Rica","07 July 2009",NA
+"Jamaica","Costa Rica","05 September 2010",NA
+"Jamaica","Costa Rica","17 November 2010",NA
+"Jamaica","Costa Rica","21 March 2012",NA
+"Costa Rica","Jamaica","26 March 2013",NA
+"Jamaica","El Salvador","30 May 2009",NA
+"El Salvador","Jamaica","10 July 2009",NA
+"El Salvador","Jamaica","29 March 2011",NA
+"El Salvador","Jamaica","15 August 2012",NA
+"Korea Republic","Jamaica","13 October 2015",NA
+"Jamaica","Mexico","20 December 1995",NA
+"Mexico","Jamaica","06 February 2013",NA
+"Jamaica","Mexico","04 June 2013",NA
+"New Zealand","Jamaica","29 February 2012",NA
+"Jamaica","Panama","07 June 2009",NA
+"Jamaica","Panama","27 May 2012",NA
+"Panama","Jamaica","01 June 2012",NA
+"Jamaica","Panama","22 March 2013",NA
+"Jamaica","Peru","07 September 2010",NA
+"Switzerland","Jamaica","30 May 2014",NA
+"Trinidad and Tobago","Jamaica","03 November 1947",NA
+"Trinidad and Tobago","Jamaica","08 November 1947",NA
+"Trinidad and Tobago","Jamaica","12 November 1947",NA
+"Trinidad and Tobago","Jamaica","04 May 1958",NA
+"Trinidad and Tobago","Jamaica","11 May 1958",NA
+"Trinidad and Tobago","Jamaica","13 May 1958",NA
+"Trinidad and Tobago","Jamaica","10 March 1959",NA
+"Trinidad and Tobago","Jamaica","25 November 1967",NA
+"Trinidad and Tobago","Jamaica","02 December 1967",NA
+"Jamaica","Trinidad and Tobago","28 May 1993",NA
+"Jamaica","Trinidad and Tobago","27 March 2008",NA
+"Trinidad and Tobago","Jamaica","07 June 2008",NA
+"Jamaica","Trinidad and Tobago","07 December 2008",NA
+"Trinidad and Tobago","Jamaica","11 August 2010",NA
+"Jamaica","Trinidad and Tobago","10 October 2010",NA
+"Jamaica","Trinidad and Tobago","15 November 2013",NA
+"Trinidad and Tobago","Jamaica","19 November 2013",NA
+"Jamaica","Venezuela","25 March 2011",NA
+"Japan","Bosnia and Herzegovina","07 June 2016",NA
+"Japan","China PR","21 July 2013",NA
+"Costa Rica","Japan","01 June 2014",NA
+"Korea DPR","Japan","15 November 2011",NA
+"Korea DPR","Japan","02 August 2015",NA
+"Korea Republic","Japan","12 October 2010",NA
+"Japan","Korea Republic","25 January 2011",NA
+"Japan","Korea Republic","10 August 2011",NA
+"Japan","Oman","03 June 2012",NA
+"Oman","Japan","14 November 2012",NA
+"Japan","Paraguay","04 September 2010",NA
+"Japan","Peru","01 June 2011",NA
+"Saudi Arabia","Japan","17 January 2011",NA
+"Serbia","Japan","11 October 2013",NA
+"Japan","Trinidad and Tobago","09 August 2006",NA
+"Japan","Tunisia","27 March 2015",NA
+"Japan","United Arab Emirates","09 October 2008",NA
+"Japan","United Arab Emirates","06 September 2012",NA
+"Japan","Uruguay","14 August 2013",NA
+"Japan","Venezuela","15 August 2012",NA
+"Lithuania","Romania","06 June 2009",NA
+"Mexico","Bosnia and Herzegovina","09 February 2011",NA
+"Mexico","China PR","16 April 2008",NA
+"Mexico","Costa Rica","12 June 2011",NA
+"Costa Rica","Mexico","15 October 2013",NA
+"Mexico","El Salvador","05 June 2011",NA
+"Mexico","El Salvador","16 October 2012",NA
+"Mexico","Ivory Coast","15 August 2013",NA
+"Mexico","Korea Republic","29 January 2014",NA
+"Mexico","Korea Republic","30 January 2014",NA
+"Mexico","New Zealand","01 June 2011",NA
+"Mexico","New Zealand","13 November 2013",NA
+"Mexico","Panama","09 July 2009",NA
+"Panama","Mexico","07 June 2013",NA
+"Mexico","Panama","24 July 2013",NA
+"Mexico","Paraguay","26 March 2011",NA
+"Mexico","Paraguay","28 May 2016",NA
+"Mexico","Serbia","11 November 2011",NA
+"Mexico","Spain","11 August 2010",NA
+"Mexico","Trinidad and Tobago","20 July 2013",NA
+"Mexico","Trinidad and Tobago","04 September 2015",NA
+"Uruguay","Mexico","12 July 2011",NA
+"Mexico","Venezuela","24 June 2009",NA
+"Mexico","Venezuela","12 October 2010",NA
+"Mexico","Venezuela","29 March 2011",NA
+"Mexico","Venezuela","25 January 2012",NA
+"Mexico","Wales","27 May 2012",NA
+"Morocco","Ivory Coast","21 January 2006",NA
+"Morocco","Ivory Coast","09 June 2012",NA
+"Morocco","Ivory Coast","09 October 2015",NA
+"Oman","Morocco","06 September 2008",NA
+"Morocco","Saudi Arabia","18 March 2003",NA
+"Morocco","South Africa","27 January 2013",NA
+"Morocco","South Africa","11 October 2013",NA
+"Morocco","Tunisia","23 January 2012",NA
+"Tunisia","Morocco","06 July 2013",NA
+"Morocco","Tunisia","13 July 2013",NA
+"Morocco","Tunisia","14 July 2013",NA
+"Morocco","Tunisia","15 June 2015",NA
+"Tunisia","Morocco","25 October 2015",NA
+"Morocco","Uruguay","28 March 2015",NA
+"Morocco","Zambia","19 November 2008",NA
+"Zambia","Morocco","08 January 2013",NA
+"Oman","China PR","17 December 2008",NA
+"China PR","Oman","03 January 2015",NA
+"Oman","New Zealand","12 November 2015",NA
+"Oman","Palestine","14 December 2012",NA
+"Oman","Paraguay","19 November 2008",NA
+"Republic of Ireland","Oman","31 August 2016",NA
+"Oman","Romania","08 January 2002",NA
+"Oman","Saudi Arabia","17 January 2009",NA
+"Oman","Saudi Arabia","12 August 2009",NA
+"Oman","Saudi Arabia","02 September 2011",NA
+"Saudi Arabia","Oman","15 November 2011",NA
+"Oman","Tunisia","29 March 2011",NA
+"Oman","United Arab Emirates","16 November 1994",NA
+"United Arab Emirates","Oman","11 October 2005",NA
+"United Arab Emirates","Oman","12 October 2005",NA
+"United Arab Emirates","Oman","17 January 2007",NA
+"Oman","United Arab Emirates","30 January 2007",NA
+"Oman","United Arab Emirates","19 March 2008",NA
+"Oman","United Arab Emirates","26 November 2010",NA
+"United Arab Emirates","Oman","11 January 2013",NA
+"Oman","United Arab Emirates","25 November 2014",NA
+"Oman","Uzbekistan","20 August 2008",NA
+"Uzbekistan","Oman","27 May 2014",NA
+"Uzbekistan","Oman","29 May 2014",NA
+"Oman","Zambia","24 September 1998",NA
+"China PR","Palestine","18 July 2009",NA
+"China PR","Palestine","21 December 2014",NA
+"Korea DPR","Palestine","16 March 2012",NA
+"Saudi Arabia","Palestine","28 June 2012",NA
+"Saudi Arabia","Palestine","11 June 2015",NA
+"Palestine","United Arab Emirates","26 July 2006",NA
+"United Arab Emirates","Palestine","10 October 2009",NA
+"United Arab Emirates","Palestine","24 February 2012",NA
+"Palestine","United Arab Emirates","08 September 2015",NA
+"Uzbekistan","Palestine","13 December 2014",NA
+"Panama","Costa Rica","23 February 2005",NA
+"Panama","Costa Rica","13 February 2007",NA
+"Costa Rica","Panama","18 February 2007",NA
+"Costa Rica","Panama","23 January 2009",NA
+"Costa Rica","Panama","01 February 2009",NA
+"Panama","Costa Rica","03 September 2010",NA
+"Panama","Costa Rica","21 January 2011",NA
+"Panama","Costa Rica","11 November 2011",NA
+"Costa Rica","Panama","18 June 2013",NA
+"El Salvador","Panama","19 February 2005",NA
+"El Salvador","Panama","29 November 2006",NA
+"Panama","El Salvador","08 October 2010",NA
+"Panama","El Salvador","18 January 2011",NA
+"Panama","El Salvador","23 January 2011",NA
+"Panama","El Salvador","19 June 2011",NA
+"El Salvador","Panama","20 January 2013",NA
+"Panama","Paraguay","02 September 2011",NA
+"Paraguay","Panama","29 February 2012",NA
+"Panama","Peru","12 October 2010",NA
+"Peru","Panama","08 February 2011",NA
+"Peru","Panama","06 August 2014",NA
+"Trinidad and Tobago","Panama","11 October 2006",NA
+"Trinidad and Tobago","Panama","18 March 2009",NA
+"Panama","Trinidad and Tobago","07 September 2010",NA
+"Venezuela","Panama","03 March 2010",NA
+"Panama","Venezuela","11 August 2010",NA
+"China PR","Paraguay","07 September 2010",NA
+"Paraguay","Costa Rica","11 August 2010",NA
+"Hong Kong","Paraguay","17 November 2010",NA
+"Ivory Coast","Paraguay","22 May 2008",NA
+"Korea Republic","Paraguay","12 August 2009",NA
+"New Zealand","Paraguay","12 October 2010",NA
+"Peru","Paraguay","11 February 2009",NA
+"Paraguay","Peru","16 October 2012",NA
+"Saudi Arabia","Paraguay","20 August 2008",NA
+"Paraguay","South Africa","17 September 2002",NA
+"South Africa","Paraguay","26 March 2008",NA
+"Paraguay","Venezuela","11 September 2012",NA
+"Peru","Costa Rica","26 March 2008",NA
+"Peru","Costa Rica","27 March 2008",NA
+"Peru","Costa Rica","08 October 2010",NA
+"Costa Rica","Peru","15 August 2012",NA
+"El Salvador","Peru","06 February 2009",NA
+"Tunisia","Peru","29 February 2012",NA
+"Peru","Uruguay","06 September 2013",NA
+"USA","Peru","04 September 2015",NA
+"Peru","Venezuela","07 September 2012",NA
+"Peru","Venezuela","31 March 2015",NA
+"Switzerland","Romania","30 May 2012",NA
+"Korea Republic","Serbia","03 June 2011",NA
+"Spain","China PR","03 June 2012",NA
+"China PR","Tunisia","31 March 2015",NA
+"Ivory Coast","Tunisia","26 March 2008",NA
+"Tunisia","Ivory Coast","13 January 2012",NA
+"Ivory Coast","Tunisia","26 January 2013",NA
+"Korea Republic","Tunisia","28 May 2014",NA
+"Tunisia","Saudi Arabia","14 October 2009",NA
+"Zambia","Tunisia","13 January 2010",NA
+"Turkey","France","03 April 1955",NA
+"Venezuela","Uruguay","11 June 2013",NA
+"China PR","Uzbekistan","16 January 2011",NA
+"China PR","Uzbekistan","05 June 2011",NA
+"China PR","Uzbekistan","06 June 2013",NA
+"Hong Kong","Uzbekistan","19 November 2013",NA
+"Korea DPR","Uzbekistan","24 December 2007",NA
+"Uzbekistan","Korea DPR","29 August 2008",NA
+"Korea DPR","Uzbekistan","11 October 2011",NA
+"Uzbekistan","Korea DPR","11 November 2011",NA
+"Korea Republic","Uzbekistan","05 July 2007",NA
+"Korea Republic","Uzbekistan","11 October 2008",NA
+"Korea Republic","Uzbekistan","28 January 2011",NA
+"Uzbekistan","Korea Republic","11 September 2012",NA
+"Korea Republic","Uzbekistan","11 June 2013",NA
+"Korea Republic","Uzbekistan","22 January 2015",NA
+"Uzbekistan","New Zealand","08 September 2014",NA
+"Saudi Arabia","Uzbekistan","09 October 2010",NA
+"United Arab Emirates","Uzbekistan","28 January 2009",NA
+"Uzbekistan","United Arab Emirates","03 March 2010",NA
+"United Arab Emirates","Uzbekistan","29 January 2012",NA
+"United Arab Emirates","Uzbekistan","12 October 2012",NA
+"United Arab Emirates","Uzbekistan","22 March 2013",NA
+"Uzbekistan","United Arab Emirates","05 March 2014",NA
+"Venezuela","Costa Rica","13 May 2009",NA
+"Costa Rica","Venezuela","27 June 2009",NA
+"Venezuela","Costa Rica","09 February 2011",NA
+"Venezuela","Costa Rica","22 December 2011",NA
+"Venezuela","El Salvador","23 March 2008",NA
+"El Salvador","Venezuela","07 August 2011",NA
+"Venezuela","Korea DPR","06 March 2010",NA
+"Zambia","Ivory Coast","12 February 2012",NA
+"Zambia","Korea DPR","21 November 2009",NA
+"Zambia","Korea Republic","09 January 2010",NA
+"Korea Republic","Zambia","15 August 2012",NA
+"Zambia","Saudi Arabia","08 September 1999",NA
+"Zambia","South Africa","07 October 2006",NA
+"South Africa","Zambia","27 July 2008",NA
+"South Africa","Zambia","27 January 2009",NA
+"South Africa","Zambia","14 November 2012",NA
+"South Africa","Zambia","17 July 2013",NA

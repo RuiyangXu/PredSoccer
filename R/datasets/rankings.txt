@@ -1,0 +1,210 @@
+"Pos" "Team" "Points" "Pos +/-" "Pts +/-"
+1 "Argentina" 1585 0 0
+2 "Belgium" 1401 0 0
+3 "Colombia" 1331 0 0
+4 "Germany" 1319 0 0
+5 "Chile" 1316 0 0
+6 "Portugal" 1266 0 0
+7 "France" 1189 0 0
+8 "Spain" 1165 0 0
+9 "Brazil" 1156 0 0
+10 "Italy" 1155 0 0
+11 "Wales" 1137 0 0
+12 "Uruguay" 1130 0 0
+13 "England" 1107 0 0
+14 "Mexico" 1042 0 -2
+15 "Croatia" 1022 0 0
+16 "Poland" 1011 0 0
+17 "Ecuador" 1002 0 0
+18 "Switzerland" 957 0 0
+19 "Hungary" 915 0 0
+19 "Turkey" 915 0 0
+21 "Costa Rica" 883 6 43
+22 "Austria" 875 -1 0
+23 "Iceland" 871 -1 0
+24 "Slovakia" 867 -1 0
+25 "Romania" 856 -1 0
+26 "USA" 848 -1 -7
+26 "Netherlands" 848 0 0
+28 "Northern Ireland" 822 0 0
+29 "Bosnia and Herzegovina" 813 0 0
+30 "Ukraine" 801 0 0
+31 "Republic of Ireland" 800 0 0
+32 "Algeria" 781 0 0
+33 "Peru" 777 1 12
+34 "Czech Republic" 768 -1 0
+35 "Ghana" 749 1 0
+36 "Côte d'Ivoire" 748 -1 -3
+37 "Albania" 739 0 0
+38 "Russia" 728 0 0
+39 "Iran" 674 0 0
+40 "Sweden" 656 0 0
+41 "Senegal" 654 0 3
+42 "Paraguay" 636 0 0
+43 "Egypt" 632 0 0
+44 "Denmark" 630 0 0
+45 "Tunisia" 627 0 0
+46 "Venezuela" 621 0 0
+47 "Serbia" 612 0 0
+48 "Korea Republic" 609 0 17
+49 "Japan" 595 8 31
+50 "Norway" 588 -1 0
+51 "Scotland" 584 -1 0
+52 "Greece" 579 0 0
+53 "Morocco" 574 1 0
+54 "Cameroon" 571 -1 -4
+55 "Uzbekistan" 560 1 -9
+56 "Congo DR" 554 3 -1
+57 "Australia" 549 2 -6
+58 "Cape Verde Islands" 545 4 0
+59 "Mali" 542 2 -4
+59 "Slovenia" 542 5 0
+61 "Saudi Arabia" 540 4 0
+61 "Finland" 540 4 0
+63 "Congo" 533 7 19
+64 "South Africa" 529 3 -1
+65 "Uganda" 525 4 3
+66 "Guinea" 521 -3 -23
+67 "Nigeria" 513 3 -1
+68 "Trinidad and Tobago" 511 -10 -47
+69 "Panama" 508 -18 -72
+70 "Belarus" 507 2 0
+71 "Jamaica" 492 -16 -81
+72 "Benin" 489 -4 -36
+73 "Burkina Faso" 486 0 -1
+74 "United Arab Emirates" 484 0 0
+75 "Guinea-Bissau" 474 0 -8
+76 "Israel" 471 0 0
+77 "Bulgaria" 446 0 0
+78 "China PR" 445 3 23
+79 "Jordan" 437 -1 -1
+80 "Qatar" 425 -1 0
+81 "St. Kitts and Nevis" 423 -1 0
+82 "Guatemala" 394 8 18
+83 "Antigua and Barbuda" 393 0 0
+84 "Honduras" 390 -2 -8
+85 "Equatorial Guinea" 389 -1 0
+86 "Cyprus" 387 -1 0
+87 "Central African Republic" 386 -1 0
+88 "Kenya" 381 -2 -5
+88 "Sierra Leone" 381 2 5
+90 "Botswana" 378 -1 0
+91 "Zambia" 376 -3 -9
+92 "Liberia" 370 0 0
+93 "New Zealand" 366 0 0
+93 "Libya" 366 0 0
+95 "Montenegro" 365 0 0
+96 "Kazakhstan" 359 1 0
+96 "Gabon" 359 2 4
+98 "Mozambique" 357 -2 -5
+99 "Korea DPR" 354 18 34
+100 "Canada" 350 0 0
+101 "Haiti" 349 -1 -1
+102 "Armenia" 348 0 0
+103 "Swaziland" 344 0 0
+104 "Mauritania" 343 15 26
+105 "Syria" 341 -1 0
+105 "Kyrgyzstan" 341 -1 0
+107 "Nicaragua" 340 -1 0
+107 "Oman" 340 -1 0
+109 "Togo" 339 -1 0
+110 "Bolivia" 338 -1 0
+110 "Zimbabwe" 338 2 6
+110 "Latvia" 338 -1 0
+113 "Iraq" 337 -14 -17
+114 "Puerto Rico" 332 -2 0
+115 "Palestine" 326 -1 0
+115 "Chad" 326 -1 0
+117 "Estonia" 323 -1 0
+118 "Georgia" 318 0 0
+119 "Turkmenistan" 312 1 0
+120 "Thailand" 305 1 0
+121 "Namibia" 303 3 5
+121 "Rwanda" 303 -10 -31
+123 "Burundi" 297 2 0
+124 "Tanzania" 295 -1 -5
+125 "Lithuania" 293 2 0
+126 "Bahrain" 289 2 0
+127 "Malawi" 286 6 17
+128 "Guyana" 280 1 0
+129 "Madagascar" 273 2 0
+130 "Ethiopia" 270 2 0
+131 "Curaçao" 261 3 0
+132 "Angola" 259 5 6
+133 "Niger" 257 -3 -20
+134 "Philippines" 256 1 0
+135 "Faroe Islands" 254 1 0
+136 "Azerbaijan" 253 1 0
+137 "El Salvador" 244 -12 -53
+138 "FYR Macedonia" 243 1 0
+138 "Vietnam" 243 1 0
+138 "Dominican Republic" 243 1 0
+141 "Sudan" 231 1 2
+142 "Mauritius" 225 0 -4
+143 "Kuwait" 223 1 0
+144 "Tajikistan" 222 1 2
+145 "Luxembourg" 219 1 0
+146 "Lesotho" 214 5 10
+147 "Hong Kong" 213 1 0
+148 "Aruba" 209 -1 -7
+149 "Lebanon" 208 0 0
+150 "Afghanistan" 206 0 0
+151 "Cuba" 205 -30 -100
+152 "India" 200 0 0
+153 "São Tomé e Príncipe" 197 0 0
+153 "South Sudan" 197 0 0
+155 "Comoros" 191 0 0
+156 "St. Vincent and the Grenadines" 182 0 0
+156 "Barbados" 182 0 0
+158 "Grenada" 171 1 0
+159 "Singapore" 167 -1 -8
+159 "Myanmar" 167 1 0
+161 "New Caledonia" 162 0 0
+162 "Yemen" 160 0 0
+163 "Gambia" 154 0 0
+164 "Papua New Guinea" 152 0 0
+165 "Moldova" 151 1 0
+166 "Belize" 150 -2 -2
+167 "Malaysia" 148 0 -1
+168 "Suriname" 131 2 8
+169 "Guam" 129 3 9
+170 "American Samoa" 128 -2 0
+170 "Cook Islands" 128 -2 0
+172 "St. Lucia" 121 -1 0
+173 "Dominica" 117 0 0
+174 "Maldives" 115 0 0
+175 "Tahiti" 114 0 0
+176 "Malta" 109 0 0
+177 "Laos" 107 0 0
+178 "Samoa" 106 0 0
+179 "Vanuatu" 103 0 0
+180 "Cambodia" 100 0 5
+181 "Solomon Islands" 92 0 0
+182 "Liechtenstein" 88 0 -1
+183 "Bangladesh" 85 0 0
+183 "Chinese Taipei" 85 0 0
+183 "Seychelles" 85 2 1
+186 "Timor-Leste" 84 -1 0
+187 "Fiji" 82 0 0
+188 "Bermuda" 77 0 0
+188 "Nepal" 77 0 0
+191 "Indonesia" 65 0 0
+192 "Bhutan" 64 0 0
+193 "Sri Lanka" 58 0 0
+194 "Pakistan" 54 0 0
+195 "Montserrat" 44 1 0
+195 "US Virgin Islands" 44 1 0
+195 "Macau" 44 0 -6
+198 "Brunei Darussalam" 33 0 0
+199 "Cayman Islands" 21 0 0
+200 "Turks and Caicos Islands" 20 0 0
+200 "San Marino" 20 0 0
+202 "Mongolia" 13 0 0
+203 "Andorra" 12 0 0
+204 "British Virgin Islands" 11 0 0
+205 "Anguilla" 0 0 0
+205 "Bahamas" 0 0 0
+205 "Tonga" 0 0 0
+205 "Somalia" 0 0 0
+205 "Eritrea" 0 0 0
+205 "Djibouti" 0 0 0
